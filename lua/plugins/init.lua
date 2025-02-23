@@ -1,1 +1,4 @@
-return {}
+return {
+  "aimadahsan/nvim",
+  opts = {}
+}
